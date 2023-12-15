@@ -1,0 +1,22 @@
+{
+  "name": "node-code-builder",
+  "version": "0.0.1",
+  "description": "This project will help you to compile all the node code into one single file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-haria/code-builder.git"
+  },
+  "keywords": [
+    "compactor"
+  ],
+  "author": "Harsh Haria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harsh-haria/code-builder/issues"
+  },
+  "homepage": "https://github.com/harsh-haria/code-builder#readme"
+}
